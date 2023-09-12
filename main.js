@@ -49,6 +49,8 @@ function navigateTo(area) {
     areaId = area;
     console.log(pisoId);
     console.log(area);
+    document.getElementById('output').innerText = "";
+
     if (pisoId == '1' && areaId in areasPiso1) {
         console.log(areasPiso1[areaId]);
         document.getElementById('output').innerText = `${areasPiso1[areaId]}`;
