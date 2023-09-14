@@ -27,8 +27,10 @@ var areasPiso1 = {
     '192' : 'Auditorio',
     '193' : 'Auditorio',
 
-    '24' : 'Administración Educativa',
-    '25' : 'Administración Educativa',
+    '44' : 'Administración Educativa',
+    '45' : 'Administración Educativa',
+    '64' : 'Administración Educativa',
+    '65' : 'Administración Educativa',
 
     '48' : 'Fondo Emprender',
     '49' : 'Fondo Emprender',
@@ -37,6 +39,13 @@ var areasPiso1 = {
     '69' : 'Fondo Emprender',
     '88' : 'Fondo Emprender',
     '89' : 'Fondo Emprender',
+
+    '83' : 'Senaverso',
+    '103' : 'Senaverso',
+    '123' : 'Senaverso',
+    '143' : 'Senaverso',
+    '163' : 'Senaverso',
+
 }
 
 var areasPiso2 = {
@@ -58,6 +67,11 @@ var areasPiso2 = {
     '125' : 'Agencia Pública de Empleo',
     '126' : 'Agencia Pública de Empleo',
 
+    '135' : 'Sennova',
+    '136' : 'Sennova',
+    '155' : 'Sennova',
+    '156' : 'Sennova',
+
 }
 
 var areasPiso3 = {
@@ -71,6 +85,19 @@ var areasPiso3 = {
 }
 
 var areasPiso4 = {
+    '2' : 'Maderas',
+    '3' : 'Maderas',
+    '22' : 'Maderas',
+    '23' : 'Maderas',
+    '42' : 'Maderas',
+    '43' : 'Maderas',
+    '62' : 'Maderas',
+    '63' : 'Maderas',
+    '82' : 'Maderas',
+    '83' : 'Maderas',
+    '102' : 'Maderas',
+    '103' : 'Maderas',
+
     '5' : 'Sennova',
     '6' : 'Sennova',
     '7' : 'Sennova',
@@ -124,10 +151,39 @@ var areasPiso4 = {
     '151' : 'Mecánica Industrial',
     '152' : 'Mecánica Industrial',
 
-    '176' : 'Automatización',
-    '177' : 'Automatización',
-    '196' : 'Automatización',
-    '197' : 'Automatización',
+    '176' : 'Festo',
+    '177' : 'Festo',
+    '196' : 'Festo',
+    '197' : 'Festo',
+
+    '170' : 'Fabricación Mecánica',
+    '171' : 'Fabricación Mecánica',
+    '172' : 'Fabricación Mecánica',
+    '190' : 'Fabricación Mecánica',
+    '191' : 'Fabricación Mecánica',
+    '192' : 'Fabricación Mecánica',
+
+    '173' : 'Simulador de Maquinaria Pesada',
+    '174' : 'Simulador de Maquinaria Pesada',
+    '175' : 'Simulador de Maquinaria Pesada',
+    '190' : 'Simulador de Maquinaria Pesada',
+    '191' : 'Simulador de Maquinaria Pesada',
+    '192' : 'Simulador de Maquinaria Pesada',
+
+    '36' : 'Automatización',
+    '37' : 'Automatización',
+    '56' : 'Automatización',
+    '57' : 'Automatización',
+    '76' : 'Automatización',
+    '77' : 'Automatización',
+    '96' : 'Automatización',
+    '97' : 'Automatización',
+    '116' : 'Automatización',
+    '117' : 'Automatización',
+    '136' : 'Automatización',
+    '137' : 'Automatización',
+    '156' : 'Automatización',
+    '157' : 'Automatización',
 
 }
 
